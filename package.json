@@ -1,0 +1,23 @@
+{
+  "name": "broadcast-yo",
+  "version": "1.0.0",
+  "description": "youtube like website",
+  "main": "server.js",
+  "scripts": {
+    "test": "yolo",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMDHackers/broadcast-yo.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Parth Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMDHackers/broadcast-yo/issues"
+  },
+  "homepage": "https://github.com/UMDHackers/broadcast-yo#readme"
+}
