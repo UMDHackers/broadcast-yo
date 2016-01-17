@@ -7,7 +7,7 @@ var app = express();
 
 //routes
 app.get('/', function(req, res) {
-  res.send('Hello World');
+  res.send('index.html');
 });
 
 app.listen(3000);
